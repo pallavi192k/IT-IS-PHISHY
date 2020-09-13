@@ -1,4 +1,4 @@
-#IT IS PHISHY
+IT IS PHISHY
 
 The "IT IS PHISHY" Chrome Extension aims to classify, every browsed URL, under phished and non-phished category(on page load); thereby, alerting the user of any malicious activity and prevent intrusion.
 
